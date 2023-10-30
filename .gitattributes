@@ -1,0 +1,5 @@
+# 自动转换文件的行尾字符
+* text=auto
+
+# 排除一些文件或目录
+/prj/client/ -text

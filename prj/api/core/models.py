@@ -5,8 +5,8 @@ from django.db import models
 class autoDriveModel(models.Model):
     name=models.CharField(max_length=120,verbose_name='名称')
     description=models.TextField(max_length=400,verbose_name='描述')
-    input_video=models.FileField(verbose_name='视频')
-    output_video=models.FileField(verbose_name='视频')
+    input_video=models.FileField(verbose_name='源数据')
+    output_video=models.FileField(verbose_name='测试结果')
     
     
 

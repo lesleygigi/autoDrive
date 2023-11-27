@@ -35,15 +35,15 @@ pipenv shell
 
 用户名是`lesley`，密码是`abcd8864`
 
-![image-20230907143851179](.\assets\image-20230907143851179.png)
+![image-20231127170647829](./assets/image-20231127170647829.png)
 
-![image-20230907143943289](.\assets\image-20230907143943289.png)
+![image-20231127170753275](./assets/image-20231127170753275.png)
 
 用浏览器访问 http://localhost:8000/api/autoDriveModels，就进入 API 测试页面：
 
 可以通过后台增删改文件
 
-![image-20230907144130865](.\assets\image-20230907144130865.png)
+![image-20231127170801691](./assets/image-20231127170801691.png)
 
 ### 前端
 
@@ -56,19 +56,19 @@ npm run dev
 
 访问http://localhost:3000
 
-![image-20230907144533407](.\assets\image-20230907144533407.png)
+![image-20230907144533407](./assets/image-20230907144533407.png)
 
 进入模型展示页面
 
-![image-20230907144554073](.\assets\image-20230907144554073.png)
+![image-20230907144554073](./assets/image-20230907144554073.png)
 
 右上角可添加模型
 
-![image-20230907144616649](.\assets\image-20230907144616649.png)
+![image-20230907144616649](./assets/image-20230907144616649.png)
 
 点击`查看`可访问模型的详情信息
 
-![image-20230907144635547](.\assets\image-20230907144635547.png)
+![image-20230907144635547](./assets/image-20230907144635547.png)
 
 
 
